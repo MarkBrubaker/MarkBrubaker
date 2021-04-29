@@ -4,5 +4,6 @@
 - 📫 How to reach me markbrub@gmai.com
 
 <!---
-This is a mix of school and personal projects
+This is where I publish projects I've done for school
+My personal github is https://github.com/MarkBrub
 --->
